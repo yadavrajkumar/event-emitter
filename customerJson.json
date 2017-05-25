@@ -1,0 +1,33 @@
+var customer={"id" : "101",
+              "name" : "RAJ",
+               "priz" : "5000"
+
+              }
+              
+
+
+          var customer2 ={
+          	"id" : "102",
+              "name" : "RAJKUMAR",
+               "priz" : "7000"
+
+              }
+
+var employee={"id" : "1011",
+              "name" : "sri",
+               "salary" : "5000"
+
+              }
+
+var employee={"id" : "1012",
+              "name" : "Naveen",
+               "salary" : "5000"
+
+              }
+
+
+
+
+
+
+
